@@ -1,0 +1,213 @@
+Removed Pin From Net: NetName=NetC42_2 Pin=U7-6
+Removed Member From Class: ClassName=LCL_22 Member=C25_2
+Removed Member From Class: ClassName=LCL_21 Member=C26_1
+Removed Member From Class: ClassName=LCL_23 Member=C26_3
+Removed Member From Class: ClassName=LCL_12 Member=C32
+Removed Member From Class: ClassName=LCL_13 Member=C33
+Removed Member From Class: ClassName=1 Member=C76
+Removed Member From Class: ClassName=1 Member=C77
+Removed Member From Class: ClassName=1 Member=C78
+Removed Member From Class: ClassName=1 Member=C79
+Removed Member From Class: ClassName=1 Member=C80
+Removed Member From Class: ClassName=1 Member=C81
+Removed Member From Class: ClassName=1 Member=C82
+Removed Member From Class: ClassName=1 Member=C83
+Removed Member From Class: ClassName=1 Member=C84
+Removed Member From Class: ClassName=1 Member=C85
+Removed Member From Class: ClassName=1 Member=C86
+Removed Member From Class: ClassName=1 Member=C87
+Removed Member From Class: ClassName=1 Member=C88
+Removed Member From Class: ClassName=1 Member=C89
+Removed Member From Class: ClassName=1 Member=C90
+Removed Member From Class: ClassName=1 Member=C91
+Removed Member From Class: ClassName=1 Member=C92
+Removed Member From Class: ClassName=1 Member=C93
+Removed Member From Class: ClassName=1 Member=C94
+Removed Member From Class: ClassName=1 Member=C95
+Removed Member From Class: ClassName=1 Member=C96
+Removed Member From Class: ClassName=1 Member=C97
+Removed Member From Class: ClassName=1 Member=C98
+Removed Member From Class: ClassName=1 Member=C99
+Removed Member From Class: ClassName=3 Member=J4
+Removed Member From Class: ClassName=1 Member=J11
+Removed Member From Class: ClassName=3 Member=J15
+Removed Member From Class: ClassName=Intermediate_LCL_Top_20230320 Member=J18
+Removed Member From Class: ClassName=LCL_13 Member=R33
+Removed Member From Class: ClassName=LCL_11 Member=R41
+Removed Member From Class: ClassName=LCL_12 Member=R42
+Removed Member From Class: ClassName=LCL_13 Member=R43
+Removed Member From Class: ClassName=LCL_11 Member=R51
+Removed Member From Class: ClassName=LCL_12 Member=R52
+Removed Member From Class: ClassName=LCL_13 Member=R53
+Removed Member From Class: ClassName=1 Member=R79
+Removed Member From Class: ClassName=1 Member=R91
+Removed Member From Class: ClassName=1 Member=R92
+Removed Member From Class: ClassName=1 Member=R93
+Removed Member From Class: ClassName=1 Member=R94
+Removed Member From Class: ClassName=1 Member=R95
+Removed Member From Class: ClassName=1 Member=R96
+Removed Member From Class: ClassName=1 Member=R97
+Removed Member From Class: ClassName=1 Member=R98
+Change Component Footprint: Designator=DS1 Old Footprint=VISH-TLMX1100_V New Footprint=VISH-TLMX1100_V
+Change Component Footprint: Designator=DS2 Old Footprint=VISH-TLMX1100_V New Footprint=VISH-TLMX1100_V
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C23_1-1
+Added Pin To Net: NetName=GND Pin=C23_2-1
+Added Pin To Net: NetName=GND Pin=C23_3-1
+Added Pin To Net: NetName=GND Pin=C24_1-1
+Added Pin To Net: NetName=GND Pin=C24_2-1
+Added Pin To Net: NetName=GND Pin=C24_3-1
+Added Pin To Net: NetName=GND Pin=C25_1-1
+Added Pin To Net: NetName=GND Pin=C25_2-1
+Added Pin To Net: NetName=GND Pin=C25_3-1
+Added Pin To Net: NetName=GND Pin=C26_1-1
+Added Pin To Net: NetName=GND Pin=C26_2-1
+Added Pin To Net: NetName=GND Pin=C26_3-1
+Added Pin To Net: NetName=GND Pin=C28_1-1
+Added Pin To Net: NetName=GND Pin=C28_2-1
+Added Pin To Net: NetName=GND Pin=C28_3-1
+Added Pin To Net: NetName=GND Pin=C29_1-1
+Added Pin To Net: NetName=GND Pin=C29_2-1
+Added Pin To Net: NetName=GND Pin=C29_3-1
+Added Pin To Net: NetName=GND Pin=C30_1-1
+Added Pin To Net: NetName=GND Pin=C30_2-1
+Added Pin To Net: NetName=GND Pin=C30_3-1
+Added Pin To Net: NetName=GND Pin=C31_1-1
+Added Pin To Net: NetName=GND Pin=C31_2-1
+Added Pin To Net: NetName=GND Pin=C31_3-1
+Added Pin To Net: NetName=GND Pin=J2-01
+Added Pin To Net: NetName=GND Pin=J2-02
+Added Pin To Net: NetName=GND Pin=J2-04
+Added Pin To Net: NetName=GND Pin=J2-06
+Added Pin To Net: NetName=GND Pin=J2-08
+Added Pin To Net: NetName=GND Pin=J2-10
+Added Pin To Net: NetName=GND Pin=J2-13
+Added Pin To Net: NetName=GND Pin=J2-14
+Added Pin To Net: NetName=GND Pin=J2-16
+Added Pin To Net: NetName=GND Pin=J2-18
+Added Pin To Net: NetName=GND Pin=J2-20
+Added Pin To Net: NetName=GND Pin=J2-22
+Added Pin To Net: NetName=GND Pin=J2-25
+Added Pin To Net: NetName=GND Pin=J2-26
+Added Pin To Net: NetName=GND Pin=J2-28
+Added Pin To Net: NetName=GND Pin=J2-30
+Added Pin To Net: NetName=GND Pin=J2-32
+Added Pin To Net: NetName=GND Pin=J2-34
+Added Pin To Net: NetName=GND Pin=J2-37
+Added Pin To Net: NetName=GND Pin=J2-38
+Added Pin To Net: NetName=GND Pin=J2-40
+Added Pin To Net: NetName=GND Pin=J2-42
+Added Pin To Net: NetName=GND Pin=J2-44
+Added Pin To Net: NetName=GND Pin=J2-46
+Added Pin To Net: NetName=GND Pin=J2-49
+Added Pin To Net: NetName=GND Pin=J2-50
+Added Pin To Net: NetName=GND Pin=J3-02
+Added Pin To Net: NetName=GND Pin=J3-04
+Added Pin To Net: NetName=GND Pin=J3-06
+Added Pin To Net: NetName=GND Pin=J3-08
+Added Pin To Net: NetName=GND Pin=J3-10
+Added Pin To Net: NetName=GND Pin=J3-12
+Added Pin To Net: NetName=GND Pin=J3-14
+Added Pin To Net: NetName=GND Pin=J3-16
+Added Pin To Net: NetName=GND Pin=J3-18
+Added Pin To Net: NetName=GND Pin=J3-20
+Added Pin To Net: NetName=GND Pin=J3-22
+Added Pin To Net: NetName=GND Pin=J3-24
+Added Pin To Net: NetName=GND Pin=J3-26
+Added Pin To Net: NetName=GND Pin=J3-28
+Added Pin To Net: NetName=GND Pin=J3-30
+Added Pin To Net: NetName=GND Pin=J3-32
+Added Pin To Net: NetName=GND Pin=J3-34
+Added Pin To Net: NetName=GND Pin=J3-36
+Added Pin To Net: NetName=GND Pin=J3-38
+Added Pin To Net: NetName=GND Pin=J3-40
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R9-1
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R14_1-1
+Added Pin To Net: NetName=GND Pin=R14_2-1
+Added Pin To Net: NetName=GND Pin=R14_3-1
+Added Pin To Net: NetName=GND Pin=R16_1-1
+Added Pin To Net: NetName=GND Pin=R16_2-1
+Added Pin To Net: NetName=GND Pin=R16_3-1
+Added Pin To Net: NetName=GND Pin=R20_1-1
+Added Pin To Net: NetName=GND Pin=R20_2-1
+Added Pin To Net: NetName=GND Pin=R20_3-1
+Added Pin To Net: NetName=GND Pin=R24_1-1
+Added Pin To Net: NetName=GND Pin=R24_2-1
+Added Pin To Net: NetName=GND Pin=R24_3-1
+Added Pin To Net: NetName=GND Pin=TP19-1
+Added Pin To Net: NetName=NetC42_2 Pin=U7-6
+Change Net Name : Old Net Name=GND New Net Name=AGND
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component C4 100nF_0805
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component C6 2.2uF_0805
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component C11 2.2uF_0805
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component C16 2.2uF_0805
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component C17 100nF_0805
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component C19 100nF_0805
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component C20 4.7uF_1206
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component C21 Earth Capacitor
+Added Member To Class: ClassName=LCL_11 Member=Component C25_1 (C25) 100nF_0805
+Added Member To Class: ClassName=LCL_13 Member=Component C25_3 (C25) 100nF_0805
+Added Member To Class: ClassName=LCL_11 Member=Component C26_1 (C26) 4.7uF_1206
+Added Member To Class: ClassName=LCL_12 Member=Component C26_2 (C26) 4.7uF_1206
+Added Member To Class: ClassName=LCL_13 Member=Component C26_3 (C26) 4.7uF_1206
+Added Member To Class: ClassName=LCL_21 Member=Component C27_1 (C27) 2.2uF_180V
+Added Member To Class: ClassName=LCL_22 Member=Component C27_2 (C27) 2.2uF_180V
+Added Member To Class: ClassName=LCL_23 Member=Component C27_3 (C27) 2.2uF_180V
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component J1 LCL1_In
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component J6 M5 Earthing Hole
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component J9 M5 Mounting Hole
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component J12 M5 Mounting Hole
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component J16 M5 Mounting Hole
+Added Member To Class: ClassName=1 Member=Component J17 CON2
+Added Member To Class: ClassName=3 Member=Component J18 CON3
+Added Member To Class: ClassName=3 Member=Component J19 CON3
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component R8 200k_0805
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component R9 20k_0805
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component R10 10k_0805
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component R11 10k_0805
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component R12 200k_0805
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP6 VC_2B
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP9 VC_1B
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP11 OT1
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP18 PWMEN2
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component TP19 AGND
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component U3 4ch Op Amp
+Added Member To Class: ClassName=Intermediate_LCL_Top_20230320 Member=Component U4 4ch Op Amp
+Added Room: Name=1
+Added Room: Name=2
+Added Room: Name=3
+Added Room: Name=4
+Added Room: Name=Fdbk_11
+Added Room: Name=Fdbk_12
+Added Room: Name=Fdbk_13
+Added Room: Name=Fdbk_21
+Added Room: Name=Fdbk_22
+Added Room: Name=Fdbk_23
+Added Room: Name=Intermediate_LCL_Top_20230320
+Added Room: Name=LCL_11
+Added Room: Name=LCL_12
+Added Room: Name=LCL_13
+Added Room: Name=LCL_21
+Added Room: Name=LCL_22
+Added Room: Name=LCL_23

@@ -1,0 +1,173 @@
+Removed Pin From Net: NetName=NetR125_2 Pin=U15_1-4
+Removed Pin From Net: NetName=NetR96_2 Pin=U15_2-4
+Removed Member From Class: ClassName=U_3Phase Inverter5 Member=C58_4
+Removed Member From Class: ClassName=U_3Phase Inverter5 Member=C59_4
+Removed Member From Class: ClassName=U_1234 Member=C92_3
+Removed Member From Class: ClassName=U_1234 Member=C93_3
+Removed Member From Class: ClassName=U_1235 Member=C94_4
+Removed Member From Class: ClassName=U_1233 Member=C95_2
+Removed Member From Class: ClassName=U_1235 Member=C95_4
+Removed Member From Class: ClassName=U_3Phase Inverter5 Member=R57_4
+Removed Member From Class: ClassName=U_1234 Member=R127_3
+Removed Member From Class: ClassName=U_1234 Member=R128_3
+Removed Member From Class: ClassName=U_1235 Member=R129_4
+Removed Member From Class: ClassName=U_1233 Member=R130_2
+Removed Member From Class: ClassName=U_1235 Member=R130_4
+Removed Member From Class: ClassName=U_1233 Member=R131_2
+Removed Member From Class: ClassName=U_1235 Member=R131_4
+Removed Member From Class: ClassName=U_1234 Member=R132_3
+Removed Member From Class: ClassName=U_1233 Member=U22_2
+Removed Member From Class: ClassName=U_1235 Member=U22_4
+Change Component Footprint: Designator=DS1 Old Footprint=VISH-TLMX1100_V New Footprint=VISH-TLMX1100_V
+Change Component Footprint: Designator=DS2 Old Footprint=VISH-TLMX1100_V New Footprint=VISH-TLMX1100_V
+Added Component: Designator=U13_2(FP-MOF0009A-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "QFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "Logic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°„C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°„C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current per Channel"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=U13_3(FP-MOF0009A-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "QFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "Logic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°„C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°„C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current per Channel"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=U13_4(FP-MOF0009A-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "QFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "Logic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°„C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°„C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current per Channel"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=U13_5(FP-MOF0009A-MFG)
+Add component (AddParameter): Name = "Case/Package"; Value = "QFN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Interface"; Value = "Logic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°„C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°„C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current per Channel"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBUS Pin=U13_2-1
+Added Pin To Net: NetName=NetC60_2_1 Pin=U13_2-2
+Added Pin To Net: NetName=NetC60_2_2 Pin=U13_2-3
+Added Pin To Net: NetName=NetC61_2_1 Pin=U13_2-4
+Added Pin To Net: NetName=NetC62_2_1 Pin=U13_2-5
+Added Pin To Net: NetName=NetC59_2_2 Pin=U13_2-6
+Added Pin To Net: NetName=GND Pin=U13_2-7
+Added Pin To Net: NetName=NetU13_1_8 Pin=U13_2-8
+Added Pin To Net: NetName=PGND Pin=U13_2-9
+Added Pin To Net: NetName=VBUS Pin=U13_3-1
+Added Pin To Net: NetName=NetC60_3_1 Pin=U13_3-2
+Added Pin To Net: NetName=NetC60_3_2 Pin=U13_3-3
+Added Pin To Net: NetName=NetC61_3_1 Pin=U13_3-4
+Added Pin To Net: NetName=NetC62_3_1 Pin=U13_3-5
+Added Pin To Net: NetName=NetC59_3_2 Pin=U13_3-6
+Added Pin To Net: NetName=GND Pin=U13_3-7
+Added Pin To Net: NetName=NetU13_1_8 Pin=U13_3-8
+Added Pin To Net: NetName=PGND Pin=U13_3-9
+Added Pin To Net: NetName=VBUS Pin=U13_4-1
+Added Pin To Net: NetName=NetC60_4_1 Pin=U13_4-2
+Added Pin To Net: NetName=NetC60_4_2 Pin=U13_4-3
+Added Pin To Net: NetName=NetC61_4_1 Pin=U13_4-4
+Added Pin To Net: NetName=NetC62_4_1 Pin=U13_4-5
+Added Pin To Net: NetName=NetC59_4_2 Pin=U13_4-6
+Added Pin To Net: NetName=GND Pin=U13_4-7
+Added Pin To Net: NetName=NetU13_1_8 Pin=U13_4-8
+Added Pin To Net: NetName=PGND Pin=U13_4-9
+Added Pin To Net: NetName=VBUS Pin=U13_5-1
+Added Pin To Net: NetName=NetC60_5_1 Pin=U13_5-2
+Added Pin To Net: NetName=NetC60_5_2 Pin=U13_5-3
+Added Pin To Net: NetName=NetC61_5_1 Pin=U13_5-4
+Added Pin To Net: NetName=NetC62_5_1 Pin=U13_5-5
+Added Pin To Net: NetName=NetC59_5_2 Pin=U13_5-6
+Added Pin To Net: NetName=GND Pin=U13_5-7
+Added Pin To Net: NetName=NetU13_1_8 Pin=U13_5-8
+Added Pin To Net: NetName=PGND Pin=U13_5-9
+Added Pin To Net: NetName=NetU15_1_4 Pin=U15_1-4
+Added Pin To Net: NetName=NetU15_1_4 Pin=U15_2-4
+Change Class Name : Old Net Name=Room Definition1 New Net Name=U_3Phase Inverter3
+Change Class Name : Old Net Name=Room Definition 1 New Net Name=U_Phase Current Voltage Sense1
+Change Class Name : Old Net Name=Room Definition2 New Net Name=U_3Phase Inverter2
+Change Class Name : Old Net Name=Room Definition 2 New Net Name=U_Phase Current Voltage Sense0
+Change Class Name : Old Net Name=Room Definition3 New Net Name=U_3Phase Inverter1
+Change Class Name : Old Net Name=Room Definition4 New Net Name=U_3Phase Inverter0
+Change Class Name : Old Net Name=U_3Phase Inverter5 New Net Name=U_3Phase Inverter4
+Change Class Name : Old Net Name=U_1232 New Net Name=U_1231
+Change Class Name : Old Net Name=U_1233 New Net Name=U_1232
+Change Class Name : Old Net Name=U_1234 New Net Name=U_1233
+Change Class Name : Old Net Name=U_1235 New Net Name=U_1234
+Added Class: Name=U_3Phase Inverter5
+Added Class: Name=U_1230
+Added Class: Name=U_1235
+Added Member To Class: ClassName=U_3Phase Inverter4 Member=Component C58_5 (C58) 3.3uF
+Added Member To Class: ClassName=U_3Phase Inverter4 Member=Component C59_5 (C59) 2.2uF
+Added Member To Class: ClassName=U_1231 Member=Component C92_2 (C92) 0.033uF
+Added Member To Class: ClassName=U_1233 Member=Component C92_4 (C92) 0.033uF
+Added Member To Class: ClassName=U_1231 Member=Component C93_2 (C93) 1500pF
+Added Member To Class: ClassName=U_1233 Member=Component C93_4 (C93) 1500pF
+Added Member To Class: ClassName=U_1231 Member=Component C94_2 (C94) 0.1uF
+Added Member To Class: ClassName=U_1234 Member=Component C94_5 (C94) 0.1uF
+Added Member To Class: ClassName=U_1232 Member=Component C95_3 (C95) 0.1uF
+Added Member To Class: ClassName=U_1234 Member=Component C95_5 (C95) 0.1uF
+Added Member To Class: ClassName=U_3Phase Inverter4 Member=Component R57_5 (R57) 0
+Added Member To Class: ClassName=U_1231 Member=Component R127_2 (R127) 0.005
+Added Member To Class: ClassName=U_1233 Member=Component R127_4 (R127) 0.005
+Added Member To Class: ClassName=U_1231 Member=Component R128_2 (R128) 100k
+Added Member To Class: ClassName=U_1233 Member=Component R128_4 (R128) 100k
+Added Member To Class: ClassName=U_1231 Member=Component R129_2 (R129) 0
+Added Member To Class: ClassName=U_1234 Member=Component R129_5 (R129) 0
+Added Member To Class: ClassName=U_1232 Member=Component R130_3 (R130) 0
+Added Member To Class: ClassName=U_1234 Member=Component R130_5 (R130) 0
+Added Member To Class: ClassName=U_1232 Member=Component R131_3 (R131) 4.22k
+Added Member To Class: ClassName=U_1234 Member=Component R131_5 (R131) 4.22k
+Added Member To Class: ClassName=U_1231 Member=Component R132_2 (R132) 0
+Added Member To Class: ClassName=U_1233 Member=Component R132_4 (R132) 0
+Added Member To Class: ClassName=U_3Phase Inverter1 Member=Component U13_2 (U13) LMG5200MOFT
+Added Member To Class: ClassName=U_3Phase Inverter2 Member=Component U13_3 (U13) LMG5200MOFT
+Added Member To Class: ClassName=U_3Phase Inverter3 Member=Component U13_4 (U13) LMG5200MOFT
+Added Member To Class: ClassName=U_3Phase Inverter4 Member=Component U13_5 (U13) LMG5200MOFT
+Added Member To Class: ClassName=U_1232 Member=Component U22_3 (U22) INA240A1PW
+Added Member To Class: ClassName=U_1234 Member=Component U22_5 (U22) INA240A1PW
+Change Room Name: Old Name=RoomDefinition_8 New Name=U_3Phase Inverter4
+Change Room Scope: Old Scope=InComponentClass('Room Definition1') New Scope=InComponentClass('U_3Phase Inverter4')
+Change Room Name: Old Name=RoomDefinition_1 New Name=U_1230
+Change Room Name: Old Name=RoomDefinition_2 New Name=U_1231
+Change Room Name: Old Name=RoomDefinition_3 New Name=U_1232
+Change Room Name: Old Name=RoomDefinition_4 New Name=U_1233
+Change Room Name: Old Name=RoomDefinition_5 New Name=U_1234
+Change Room Name: Old Name=RoomDefinition_6 New Name=U_1235
+Added Room: Name=1
+Added Room: Name=3
+Added Room: Name=Fdbk_11
+Added Room: Name=Fdbk_12
+Added Room: Name=Fdbk_13
+Added Room: Name=Fdbk_21
+Added Room: Name=Fdbk_22
+Added Room: Name=Fdbk_23
+Added Room: Name=Intermediate_LCL_Top_20230320
+Added Room: Name=LCL_11
+Added Room: Name=LCL_12
+Added Room: Name=LCL_13
+Added Room: Name=LCL_21
+Added Room: Name=LCL_22
+Added Room: Name=LCL_23
+Added Room: Name=U_3Phase Inverter0
+Added Room: Name=U_3Phase Inverter1
+Added Room: Name=U_3Phase Inverter2
+Added Room: Name=U_3Phase Inverter3
+Added Room: Name=U_3Phase Inverter5
+Added Room: Name=U_Phase Current Voltage Sense0
+Added Room: Name=U_Phase Current Voltage Sense1
