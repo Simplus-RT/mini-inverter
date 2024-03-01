@@ -1,0 +1,243 @@
+Removed Pin From Net: NetName=AGND Pin=J3-04
+Removed Pin From Net: NetName=VDCA_In Pin=J3-06
+Removed Pin From Net: NetName=3.3A Pin=J3-11
+Removed Pin From Net: NetName=I_InA_1 Pin=J3-14
+Removed Pin From Net: NetName=I_InA_2 Pin=J3-16
+Removed Pin From Net: NetName=I_InA_3 Pin=J3-18
+Removed Pin From Net: NetName=VREFA Pin=J3-20
+Removed Pin From Net: NetName=EPWM4A Pin=J4-01
+Removed Pin From Net: NetName=AGND Pin=J4-02
+Removed Pin From Net: NetName=EPWM4B Pin=J4-03
+Removed Pin From Net: NetName=EPWM5A Pin=J4-05
+Removed Pin From Net: NetName=EPWM5B Pin=J4-07
+Removed Pin From Net: NetName=EPWM6A Pin=J4-09
+Removed Pin From Net: NetName=EPWM6B Pin=J4-11
+Removed Pin From Net: NetName=PCB_OT_1 Pin=J4-13
+Removed Pin From Net: NetName=PWM_EN_1 Pin=J4-16
+Removed Pin From Net: NetName=AGND Pin=J11-04
+Removed Pin From Net: NetName=VDCB_In Pin=J11-06
+Removed Pin From Net: NetName=3.3B Pin=J11-11
+Removed Pin From Net: NetName=I_InB_1 Pin=J11-14
+Removed Pin From Net: NetName=I_InB_2 Pin=J11-16
+Removed Pin From Net: NetName=I_InB_3 Pin=J11-18
+Removed Pin From Net: NetName=EPWM1A Pin=J12-01
+Removed Pin From Net: NetName=AGND Pin=J12-02
+Removed Pin From Net: NetName=EPWM1B Pin=J12-03
+Removed Pin From Net: NetName=EPWM2A Pin=J12-05
+Removed Pin From Net: NetName=EPWM2B Pin=J12-07
+Removed Pin From Net: NetName=EPWM3A Pin=J12-09
+Removed Pin From Net: NetName=EPWM3B Pin=J12-11
+Removed Pin From Net: NetName=PCB_OT_2 Pin=J12-13
+Removed Pin From Net: NetName=PWM_EN_2 Pin=J12-16
+Removed Member From Class: ClassName=Intermediate_LCL_Top_20230320 Member=J3
+Removed Member From Class: ClassName=Intermediate_LCL_Top_20230320 Member=J4
+Removed Member From Class: ClassName=Intermediate_LCL_Top_20230320 Member=J11
+Removed Member From Class: ClassName=Intermediate_LCL_Top_20230320 Member=J12
+Change Component Comment : Designator=J2 Old Comment=EPWM/DGPIO New Comment=EPWM
+Change Component Description : Designator=C1_1 Old Description=KEMET PHE450 Metallised Polypropylene Film Capacitor, 180 V ac, 250 V dc, ?%, 2.2µF, Through Hole New Description=KEMET PHE450 Metallised Polypropylene Film Capacitor, 180 V ac, 250 V dc, °¿5%, 2.2¶ÃF, Through Hole
+Change Component Description : Designator=C1_2 Old Description=KEMET PHE450 Metallised Polypropylene Film Capacitor, 180 V ac, 250 V dc, ?%, 2.2µF, Through Hole New Description=KEMET PHE450 Metallised Polypropylene Film Capacitor, 180 V ac, 250 V dc, °¿5%, 2.2¶ÃF, Through Hole
+Change Component Description : Designator=C1_3 Old Description=KEMET PHE450 Metallised Polypropylene Film Capacitor, 180 V ac, 250 V dc, ?%, 2.2µF, Through Hole New Description=KEMET PHE450 Metallised Polypropylene Film Capacitor, 180 V ac, 250 V dc, °¿5%, 2.2¶ÃF, Through Hole
+Change Component Description : Designator=C3_1 Old Description=KEMET PHE450 Metallised Polypropylene Film Capacitor, 180 V ac, 250 V dc, ?%, 2.2µF, Through Hole New Description=KEMET PHE450 Metallised Polypropylene Film Capacitor, 180 V ac, 250 V dc, °¿5%, 2.2¶ÃF, Through Hole
+Change Component Description : Designator=C3_2 Old Description=KEMET PHE450 Metallised Polypropylene Film Capacitor, 180 V ac, 250 V dc, ?%, 2.2µF, Through Hole New Description=KEMET PHE450 Metallised Polypropylene Film Capacitor, 180 V ac, 250 V dc, °¿5%, 2.2¶ÃF, Through Hole
+Change Component Description : Designator=C3_3 Old Description=KEMET PHE450 Metallised Polypropylene Film Capacitor, 180 V ac, 250 V dc, ?%, 2.2µF, Through Hole New Description=KEMET PHE450 Metallised Polypropylene Film Capacitor, 180 V ac, 250 V dc, °¿5%, 2.2¶ÃF, Through Hole
+Change Component Description : Designator=U3 Old Description=Quad, 30-V, 3-MHz, high slew rate (13-V/µs), In to V+, JFET-input op amp New Description=Quad, 30-V, 3-MHz, high slew rate (13-V/¶Ãs), In to V+, JFET-input op amp
+Change Component Description : Designator=U4 Old Description=Quad, 30-V, 3-MHz, high slew rate (13-V/µs), In to V+, JFET-input op amp New Description=Quad, 30-V, 3-MHz, high slew rate (13-V/¶Ãs), In to V+, JFET-input op amp
+Change Component Description : Designator=U5 Old Description=Quad, 30-V, 3-MHz, high slew rate (13-V/µs), In to V+, JFET-input op amp New Description=Quad, 30-V, 3-MHz, high slew rate (13-V/¶Ãs), In to V+, JFET-input op amp
+Change Component Description : Designator=U6 Old Description=Quad, 30-V, 3-MHz, high slew rate (13-V/µs), In to V+, JFET-input op amp New Description=Quad, 30-V, 3-MHz, high slew rate (13-V/¶Ãs), In to V+, JFET-input op amp
+Change Component Description : Designator=R1_1 Old Description=SMD Chip Resistor, 10 kohm, ?1%, 2 W, 2512 [6432 Metric], Thick Film, High Power New Description=SMD Chip Resistor, 10 kohm, °¿ 1%, 2 W, 2512 [6432 Metric], Thick Film, High Power
+Change Component Description : Designator=R1_2 Old Description=SMD Chip Resistor, 10 kohm, ?1%, 2 W, 2512 [6432 Metric], Thick Film, High Power New Description=SMD Chip Resistor, 10 kohm, °¿ 1%, 2 W, 2512 [6432 Metric], Thick Film, High Power
+Change Component Description : Designator=R1_3 Old Description=SMD Chip Resistor, 10 kohm, ?1%, 2 W, 2512 [6432 Metric], Thick Film, High Power New Description=SMD Chip Resistor, 10 kohm, °¿ 1%, 2 W, 2512 [6432 Metric], Thick Film, High Power
+Change Component Description : Designator=R3_1 Old Description=SMD Chip Resistor, 10 kohm, ?1%, 2 W, 2512 [6432 Metric], Thick Film, High Power New Description=SMD Chip Resistor, 10 kohm, °¿ 1%, 2 W, 2512 [6432 Metric], Thick Film, High Power
+Change Component Description : Designator=R3_2 Old Description=SMD Chip Resistor, 10 kohm, ?1%, 2 W, 2512 [6432 Metric], Thick Film, High Power New Description=SMD Chip Resistor, 10 kohm, °¿ 1%, 2 W, 2512 [6432 Metric], Thick Film, High Power
+Change Component Description : Designator=R3_3 Old Description=SMD Chip Resistor, 10 kohm, ?1%, 2 W, 2512 [6432 Metric], Thick Film, High Power New Description=SMD Chip Resistor, 10 kohm, °¿ 1%, 2 W, 2512 [6432 Metric], Thick Film, High Power
+Change Component Description : Designator=R8 Old Description=SMD Chip Resistor, 10 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 10 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R9 Old Description=SMD Chip Resistor, 10 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 10 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R14 Old Description=SMD Chip Resistor, 10 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 10 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R15 Old Description=SMD Chip Resistor, 10 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 10 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R34_1 Old Description=SMD Chip Resistor, 10 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 10 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R34_2 Old Description=SMD Chip Resistor, 10 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 10 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R34_3 Old Description=SMD Chip Resistor, 10 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 10 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R35_1 Old Description=SMD Chip Resistor, 10 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 10 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R35_2 Old Description=SMD Chip Resistor, 10 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 10 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R35_3 Old Description=SMD Chip Resistor, 10 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 10 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R38_1 Old Description=SMD Chip Resistor, 10 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 10 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R38_2 Old Description=SMD Chip Resistor, 10 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 10 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R38_3 Old Description=SMD Chip Resistor, 10 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 10 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R39_1 Old Description=SMD Chip Resistor, 10 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 10 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R39_2 Old Description=SMD Chip Resistor, 10 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 10 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R39_3 Old Description=SMD Chip Resistor, 10 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 10 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R5 Old Description=SMD Chip Resistor, 20 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 20 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R7 Old Description=SMD Chip Resistor, 20 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 20 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R11 Old Description=SMD Chip Resistor, 20 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 20 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R13 Old Description=SMD Chip Resistor, 20 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 20 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R2_1 Old Description=SMD Chip Resistor, 130 ohm, ?1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 130 ohm, °¿ 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R2_2 Old Description=SMD Chip Resistor, 130 ohm, ?1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 130 ohm, °¿ 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R2_3 Old Description=SMD Chip Resistor, 130 ohm, ?1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 130 ohm, °¿ 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R4_1 Old Description=SMD Chip Resistor, 130 ohm, ?1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 130 ohm, °¿ 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R4_2 Old Description=SMD Chip Resistor, 130 ohm, ?1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 130 ohm, °¿ 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R4_3 Old Description=SMD Chip Resistor, 130 ohm, ?1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 130 ohm, °¿ 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R6 Old Description=SMD Chip Resistor, 200 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 200 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R10 Old Description=SMD Chip Resistor, 200 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 200 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R12 Old Description=SMD Chip Resistor, 200 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 200 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R16 Old Description=SMD Chip Resistor, 200 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 200 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R33_1 Old Description=SMD Chip Resistor, 200 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 200 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R33_2 Old Description=SMD Chip Resistor, 200 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 200 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R33_3 Old Description=SMD Chip Resistor, 200 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 200 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R36_1 Old Description=SMD Chip Resistor, 200 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 200 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R36_2 Old Description=SMD Chip Resistor, 200 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 200 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R36_3 Old Description=SMD Chip Resistor, 200 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 200 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R37_1 Old Description=SMD Chip Resistor, 200 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 200 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R37_2 Old Description=SMD Chip Resistor, 200 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 200 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R37_3 Old Description=SMD Chip Resistor, 200 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 200 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R40_1 Old Description=SMD Chip Resistor, 200 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 200 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R40_2 Old Description=SMD Chip Resistor, 200 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 200 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=R40_3 Old Description=SMD Chip Resistor, 200 kohm, ?1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose New Description=SMD Chip Resistor, 200 kohm, °¿ 1%, 125 mW, 0805 [2012 Metric], Thick Film, General Purpose
+Change Component Description : Designator=C8 Old Description=SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0805 [2012 Metric], ?5%, X7R, C Series KEMET New Description=SMD Multilayer Ceramic Capacitor, 0.1 ¶ÃF, 50 V, 0805 [2012 Metric], °¿ 5%, X7R, C Series KEMET
+Change Component Description : Designator=C10 Old Description=SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0805 [2012 Metric], ?5%, X7R, C Series KEMET New Description=SMD Multilayer Ceramic Capacitor, 0.1 ¶ÃF, 50 V, 0805 [2012 Metric], °¿ 5%, X7R, C Series KEMET
+Change Component Description : Designator=C12 Old Description=SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0805 [2012 Metric], ?5%, X7R, C Series KEMET New Description=SMD Multilayer Ceramic Capacitor, 0.1 ¶ÃF, 50 V, 0805 [2012 Metric], °¿ 5%, X7R, C Series KEMET
+Change Component Description : Designator=C14 Old Description=SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0805 [2012 Metric], ?5%, X7R, C Series KEMET New Description=SMD Multilayer Ceramic Capacitor, 0.1 ¶ÃF, 50 V, 0805 [2012 Metric], °¿ 5%, X7R, C Series KEMET
+Change Component Description : Designator=C16 Old Description=SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0805 [2012 Metric], ?5%, X7R, C Series KEMET New Description=SMD Multilayer Ceramic Capacitor, 0.1 ¶ÃF, 50 V, 0805 [2012 Metric], °¿ 5%, X7R, C Series KEMET
+Change Component Description : Designator=C18 Old Description=SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0805 [2012 Metric], ?5%, X7R, C Series KEMET New Description=SMD Multilayer Ceramic Capacitor, 0.1 ¶ÃF, 50 V, 0805 [2012 Metric], °¿ 5%, X7R, C Series KEMET
+Change Component Description : Designator=C20 Old Description=SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0805 [2012 Metric], ?5%, X7R, C Series KEMET New Description=SMD Multilayer Ceramic Capacitor, 0.1 ¶ÃF, 50 V, 0805 [2012 Metric], °¿ 5%, X7R, C Series KEMET
+Change Component Description : Designator=C22 Old Description=SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0805 [2012 Metric], ?5%, X7R, C Series KEMET New Description=SMD Multilayer Ceramic Capacitor, 0.1 ¶ÃF, 50 V, 0805 [2012 Metric], °¿ 5%, X7R, C Series KEMET
+Change Component Description : Designator=C24_1 Old Description=SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0805 [2012 Metric], ?5%, X7R, C Series KEMET New Description=SMD Multilayer Ceramic Capacitor, 0.1 ¶ÃF, 50 V, 0805 [2012 Metric], °¿ 5%, X7R, C Series KEMET
+Change Component Description : Designator=C24_2 Old Description=SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0805 [2012 Metric], ?5%, X7R, C Series KEMET New Description=SMD Multilayer Ceramic Capacitor, 0.1 ¶ÃF, 50 V, 0805 [2012 Metric], °¿ 5%, X7R, C Series KEMET
+Change Component Description : Designator=C24_3 Old Description=SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0805 [2012 Metric], ?5%, X7R, C Series KEMET New Description=SMD Multilayer Ceramic Capacitor, 0.1 ¶ÃF, 50 V, 0805 [2012 Metric], °¿ 5%, X7R, C Series KEMET
+Change Component Description : Designator=C26_1 Old Description=SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0805 [2012 Metric], ?5%, X7R, C Series KEMET New Description=SMD Multilayer Ceramic Capacitor, 0.1 ¶ÃF, 50 V, 0805 [2012 Metric], °¿ 5%, X7R, C Series KEMET
+Change Component Description : Designator=C26_2 Old Description=SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0805 [2012 Metric], ?5%, X7R, C Series KEMET New Description=SMD Multilayer Ceramic Capacitor, 0.1 ¶ÃF, 50 V, 0805 [2012 Metric], °¿ 5%, X7R, C Series KEMET
+Change Component Description : Designator=C26_3 Old Description=SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0805 [2012 Metric], ?5%, X7R, C Series KEMET New Description=SMD Multilayer Ceramic Capacitor, 0.1 ¶ÃF, 50 V, 0805 [2012 Metric], °¿ 5%, X7R, C Series KEMET
+Change Component Description : Designator=C28_1 Old Description=SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0805 [2012 Metric], ?5%, X7R, C Series KEMET New Description=SMD Multilayer Ceramic Capacitor, 0.1 ¶ÃF, 50 V, 0805 [2012 Metric], °¿ 5%, X7R, C Series KEMET
+Change Component Description : Designator=C28_2 Old Description=SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0805 [2012 Metric], ?5%, X7R, C Series KEMET New Description=SMD Multilayer Ceramic Capacitor, 0.1 ¶ÃF, 50 V, 0805 [2012 Metric], °¿ 5%, X7R, C Series KEMET
+Change Component Description : Designator=C28_3 Old Description=SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0805 [2012 Metric], ?5%, X7R, C Series KEMET New Description=SMD Multilayer Ceramic Capacitor, 0.1 ¶ÃF, 50 V, 0805 [2012 Metric], °¿ 5%, X7R, C Series KEMET
+Change Component Description : Designator=C30_1 Old Description=SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0805 [2012 Metric], ?5%, X7R, C Series KEMET New Description=SMD Multilayer Ceramic Capacitor, 0.1 ¶ÃF, 50 V, 0805 [2012 Metric], °¿ 5%, X7R, C Series KEMET
+Change Component Description : Designator=C30_2 Old Description=SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0805 [2012 Metric], ?5%, X7R, C Series KEMET New Description=SMD Multilayer Ceramic Capacitor, 0.1 ¶ÃF, 50 V, 0805 [2012 Metric], °¿ 5%, X7R, C Series KEMET
+Change Component Description : Designator=C30_3 Old Description=SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 0805 [2012 Metric], ?5%, X7R, C Series KEMET New Description=SMD Multilayer Ceramic Capacitor, 0.1 ¶ÃF, 50 V, 0805 [2012 Metric], °¿ 5%, X7R, C Series KEMET
+Change Component Description : Designator=C4 Old Description=SMD Multilayer Ceramic Capacitor, 2.2 µF, 50 V, 0805 [2012 Metric], ?10%, X5R, C New Description=SMD Multilayer Ceramic Capacitor, 2.2 ¶ÃF, 50 V, 0805 [2012 Metric], °¿ 10%, X5R, C
+Change Component Description : Designator=C5 Old Description=SMD Multilayer Ceramic Capacitor, 2.2 µF, 50 V, 0805 [2012 Metric], ?10%, X5R, C New Description=SMD Multilayer Ceramic Capacitor, 2.2 ¶ÃF, 50 V, 0805 [2012 Metric], °¿ 10%, X5R, C
+Change Component Description : Designator=C6 Old Description=SMD Multilayer Ceramic Capacitor, 2.2 µF, 50 V, 0805 [2012 Metric], ?10%, X5R, C New Description=SMD Multilayer Ceramic Capacitor, 2.2 ¶ÃF, 50 V, 0805 [2012 Metric], °¿ 10%, X5R, C
+Change Component Description : Designator=C7 Old Description=SMD Multilayer Ceramic Capacitor, 2.2 µF, 50 V, 0805 [2012 Metric], ?10%, X5R, C New Description=SMD Multilayer Ceramic Capacitor, 2.2 ¶ÃF, 50 V, 0805 [2012 Metric], °¿ 10%, X5R, C
+Change Component Description : Designator=C9 Old Description=SMD Multilayer Ceramic Capacitor, 4.7 µF, 50 V, 1206 [3216 Metric], ?10%, X7R, C New Description=SMD Multilayer Ceramic Capacitor, 4.7 ¶ÃF, 50 V, 1206 [3216 Metric], °¿ 10%, X7R, C
+Change Component Description : Designator=C11 Old Description=SMD Multilayer Ceramic Capacitor, 4.7 µF, 50 V, 1206 [3216 Metric], ?10%, X7R, C New Description=SMD Multilayer Ceramic Capacitor, 4.7 ¶ÃF, 50 V, 1206 [3216 Metric], °¿ 10%, X7R, C
+Change Component Description : Designator=C13 Old Description=SMD Multilayer Ceramic Capacitor, 4.7 µF, 50 V, 1206 [3216 Metric], ?10%, X7R, C New Description=SMD Multilayer Ceramic Capacitor, 4.7 ¶ÃF, 50 V, 1206 [3216 Metric], °¿ 10%, X7R, C
+Change Component Description : Designator=C15 Old Description=SMD Multilayer Ceramic Capacitor, 4.7 µF, 50 V, 1206 [3216 Metric], ?10%, X7R, C New Description=SMD Multilayer Ceramic Capacitor, 4.7 ¶ÃF, 50 V, 1206 [3216 Metric], °¿ 10%, X7R, C
+Change Component Description : Designator=C17 Old Description=SMD Multilayer Ceramic Capacitor, 4.7 µF, 50 V, 1206 [3216 Metric], ?10%, X7R, C New Description=SMD Multilayer Ceramic Capacitor, 4.7 ¶ÃF, 50 V, 1206 [3216 Metric], °¿ 10%, X7R, C
+Change Component Description : Designator=C19 Old Description=SMD Multilayer Ceramic Capacitor, 4.7 µF, 50 V, 1206 [3216 Metric], ?10%, X7R, C New Description=SMD Multilayer Ceramic Capacitor, 4.7 ¶ÃF, 50 V, 1206 [3216 Metric], °¿ 10%, X7R, C
+Change Component Description : Designator=C21 Old Description=SMD Multilayer Ceramic Capacitor, 4.7 µF, 50 V, 1206 [3216 Metric], ?10%, X7R, C New Description=SMD Multilayer Ceramic Capacitor, 4.7 ¶ÃF, 50 V, 1206 [3216 Metric], °¿ 10%, X7R, C
+Change Component Description : Designator=C23 Old Description=SMD Multilayer Ceramic Capacitor, 4.7 µF, 50 V, 1206 [3216 Metric], ?10%, X7R, C New Description=SMD Multilayer Ceramic Capacitor, 4.7 ¶ÃF, 50 V, 1206 [3216 Metric], °¿ 10%, X7R, C
+Change Component Description : Designator=C25_1 Old Description=SMD Multilayer Ceramic Capacitor, 4.7 µF, 50 V, 1206 [3216 Metric], ?10%, X7R, C New Description=SMD Multilayer Ceramic Capacitor, 4.7 ¶ÃF, 50 V, 1206 [3216 Metric], °¿ 10%, X7R, C
+Change Component Description : Designator=C25_2 Old Description=SMD Multilayer Ceramic Capacitor, 4.7 µF, 50 V, 1206 [3216 Metric], ?10%, X7R, C New Description=SMD Multilayer Ceramic Capacitor, 4.7 ¶ÃF, 50 V, 1206 [3216 Metric], °¿ 10%, X7R, C
+Change Component Description : Designator=C25_3 Old Description=SMD Multilayer Ceramic Capacitor, 4.7 µF, 50 V, 1206 [3216 Metric], ?10%, X7R, C New Description=SMD Multilayer Ceramic Capacitor, 4.7 ¶ÃF, 50 V, 1206 [3216 Metric], °¿ 10%, X7R, C
+Change Component Description : Designator=C27_1 Old Description=SMD Multilayer Ceramic Capacitor, 4.7 µF, 50 V, 1206 [3216 Metric], ?10%, X7R, C New Description=SMD Multilayer Ceramic Capacitor, 4.7 ¶ÃF, 50 V, 1206 [3216 Metric], °¿ 10%, X7R, C
+Change Component Description : Designator=C27_2 Old Description=SMD Multilayer Ceramic Capacitor, 4.7 µF, 50 V, 1206 [3216 Metric], ?10%, X7R, C New Description=SMD Multilayer Ceramic Capacitor, 4.7 ¶ÃF, 50 V, 1206 [3216 Metric], °¿ 10%, X7R, C
+Change Component Description : Designator=C27_3 Old Description=SMD Multilayer Ceramic Capacitor, 4.7 µF, 50 V, 1206 [3216 Metric], ?10%, X7R, C New Description=SMD Multilayer Ceramic Capacitor, 4.7 ¶ÃF, 50 V, 1206 [3216 Metric], °¿ 10%, X7R, C
+Change Component Description : Designator=C29_1 Old Description=SMD Multilayer Ceramic Capacitor, 4.7 µF, 50 V, 1206 [3216 Metric], ?10%, X7R, C New Description=SMD Multilayer Ceramic Capacitor, 4.7 ¶ÃF, 50 V, 1206 [3216 Metric], °¿ 10%, X7R, C
+Change Component Description : Designator=C29_2 Old Description=SMD Multilayer Ceramic Capacitor, 4.7 µF, 50 V, 1206 [3216 Metric], ?10%, X7R, C New Description=SMD Multilayer Ceramic Capacitor, 4.7 ¶ÃF, 50 V, 1206 [3216 Metric], °¿ 10%, X7R, C
+Change Component Description : Designator=C29_3 Old Description=SMD Multilayer Ceramic Capacitor, 4.7 µF, 50 V, 1206 [3216 Metric], ?10%, X7R, C New Description=SMD Multilayer Ceramic Capacitor, 4.7 ¶ÃF, 50 V, 1206 [3216 Metric], °¿ 10%, X7R, C
+Change Component Description : Designator=C31_1 Old Description=SMD Multilayer Ceramic Capacitor, 4.7 µF, 50 V, 1206 [3216 Metric], ?10%, X7R, C New Description=SMD Multilayer Ceramic Capacitor, 4.7 ¶ÃF, 50 V, 1206 [3216 Metric], °¿ 10%, X7R, C
+Change Component Description : Designator=C31_2 Old Description=SMD Multilayer Ceramic Capacitor, 4.7 µF, 50 V, 1206 [3216 Metric], ?10%, X7R, C New Description=SMD Multilayer Ceramic Capacitor, 4.7 ¶ÃF, 50 V, 1206 [3216 Metric], °¿ 10%, X7R, C
+Change Component Description : Designator=C31_3 Old Description=SMD Multilayer Ceramic Capacitor, 4.7 µF, 50 V, 1206 [3216 Metric], ?10%, X7R, C New Description=SMD Multilayer Ceramic Capacitor, 4.7 ¶ÃF, 50 V, 1206 [3216 Metric], °¿ 10%, X7R, C
+Change component parameters: Designator = "J6" ("J6"); Footprint = "3 Pin Terminal"; UniqueID = "\TBVCGMTP" ("\TBVCGMTP")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/2b80058b23306b34/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://upverter.com/datasheet/d9a5d2e095ec14efdc364e45047c257fc4ca76eb.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Description"; Value = "CONN TERM BLOCK 5.08MM VERT 3POS PCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Part Number"; Value = "ED2610-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/2b80058b23306b34/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Is Female"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On Shore Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "HDR03"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "OSTTC032162"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.382016875697"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "ED2610-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-30°„C to +105°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+105°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-30°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J7" ("J7"); Footprint = "3 Pin Terminal"; UniqueID = "\LLGASZOO" ("\LLGASZOO")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/2b80058b23306b34/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://upverter.com/datasheet/d9a5d2e095ec14efdc364e45047c257fc4ca76eb.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Description"; Value = "CONN TERM BLOCK 5.08MM VERT 3POS PCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Part Number"; Value = "ED2610-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/2b80058b23306b34/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Is Female"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On Shore Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "HDR03"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "OSTTC032162"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.382016875697"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "ED2610-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-30°„C to +105°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+105°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-30°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J8" ("J8"); Footprint = "3 Pin Terminal"; UniqueID = "\PRCCBPHU" ("\PRCCBPHU")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/2b80058b23306b34/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://upverter.com/datasheet/d9a5d2e095ec14efdc364e45047c257fc4ca76eb.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Description"; Value = "CONN TERM BLOCK 5.08MM VERT 3POS PCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Part Number"; Value = "ED2610-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/2b80058b23306b34/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Is Female"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On Shore Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "HDR03"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "OSTTC032162"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.382016875697"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "ED2610-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-30°„C to +105°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+105°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-30°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J9" ("J9"); Footprint = "3 Pin Terminal"; UniqueID = "\CFQRKTCC" ("\CFQRKTCC")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Upverter"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://upverter.com/upn/revision/2b80058b23306b34/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://upverter.com/datasheet/d9a5d2e095ec14efdc364e45047c257fc4ca76eb.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Description"; Value = "CONN TERM BLOCK 5.08MM VERT 3POS PCB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digikey Part Number"; Value = "ED2610-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "helpURL"; Value = "https://upverter.com/upn/revision/2b80058b23306b34/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Is Female"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On Shore Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "HDR03"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "OSTTC032162"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.382016875697"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "ED2610-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-30°„C to +105°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range High"; Value = "+105°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range Low"; Value = "-30°„C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Added Room: Name=Fdbk_11
+Added Room: Name=Fdbk_12
+Added Room: Name=Fdbk_13
+Added Room: Name=Fdbk_21
+Added Room: Name=Fdbk_22
+Added Room: Name=Fdbk_23
+Added Room: Name=Intermediate_LCL_Top_20230320
+Added Room: Name=LCL_11
+Added Room: Name=LCL_12
+Added Room: Name=LCL_13
+Added Room: Name=LCL_21
+Added Room: Name=LCL_22
+Added Room: Name=LCL_23

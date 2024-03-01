@@ -1,0 +1,96 @@
+Removed Pin From Net: NetName=VBUS Pin=P1-2
+Removed Pin From Net: NetName=3V3 Pin=R30-2
+Removed Pin From Net: NetName=PWM_AH2 Pin=R78-1
+Removed Pin From Net: NetName=PWM_AL2 Pin=R79-1
+Removed Pin From Net: NetName=PWM_BH2 Pin=R80-1
+Removed Pin From Net: NetName=PWM_BL2 Pin=R81-1
+Removed Pin From Net: NetName=PWM_CH2 Pin=R82-1
+Removed Pin From Net: NetName=PWM_CL2 Pin=R83-1
+Removed Pin From Net: NetName=PWM_AH1 Pin=R107-1
+Removed Pin From Net: NetName=PWM_AL1 Pin=R108-1
+Removed Pin From Net: NetName=PWM_BH1 Pin=R109-1
+Removed Pin From Net: NetName=PWM_BL1 Pin=R110-1
+Removed Pin From Net: NetName=PWM_CH1 Pin=R111-1
+Removed Pin From Net: NetName=PWM_CL1 Pin=R112-1
+Removed Pin From Net: NetName=5V Pin=U8-1
+Removed Pin From Net: NetName=GND Pin=U8-3
+Removed Pin From Net: NetName=PWM_CL2 Pin=U17-16
+Removed Pin From Net: NetName=PWM_CH2 Pin=U17-17
+Removed Pin From Net: NetName=PWM_BL2 Pin=U17-18
+Removed Pin From Net: NetName=PWM_BH2 Pin=U17-19
+Removed Pin From Net: NetName=PWM_AL2 Pin=U17-20
+Removed Pin From Net: NetName=PWM_AH2 Pin=U17-21
+Removed Pin From Net: NetName=PWM_CL1 Pin=U19-16
+Removed Pin From Net: NetName=PWM_CH1 Pin=U19-17
+Removed Pin From Net: NetName=PWM_BL1 Pin=U19-18
+Removed Pin From Net: NetName=PWM_BH1 Pin=U19-19
+Removed Pin From Net: NetName=PWM_AL1 Pin=U19-20
+Removed Pin From Net: NetName=PWM_AH1 Pin=U19-21
+Removed Member From Class: ClassName=1 Member=R30
+Removed Member From Class: ClassName=1 Member=U8
+Change Component Comment : Designator=C38 Old Comment=0.1uF New Comment=1uF
+Change Component Comment : Designator=C39 Old Comment=0.1uF New Comment=1uF
+Change Component Designator: OldDesignator=VB NewDesignator=U5_3
+Change component parameters: Designator = "C38" ("C38"); Footprint = "CAPC1608X06N"; UniqueID = "\MNUYOAHV\OMMROIOV" ("\MNUYOAHV\OMMROIOV")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C39" ("C39"); Footprint = "CAPC1608X06N"; UniqueID = "\MNUYOAHV\YETSPTIY" ("\MNUYOAHV\YETSPTIY")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC32_1 Pin=C38-1
+Added Pin To Net: NetName=PGND Pin=P1-2
+Added Pin To Net: NetName=PWM_AH1 Pin=R78-1
+Added Pin To Net: NetName=PWM_AL1 Pin=R79-1
+Added Pin To Net: NetName=PWM_BH1 Pin=R80-1
+Added Pin To Net: NetName=PWM_BL1 Pin=R81-1
+Added Pin To Net: NetName=PWM_CH1 Pin=R82-1
+Added Pin To Net: NetName=PWM_CL1 Pin=R83-1
+Added Pin To Net: NetName=PWM_AH2 Pin=R107-1
+Added Pin To Net: NetName=PWM_AL2 Pin=R108-1
+Added Pin To Net: NetName=PWM_BH2 Pin=R109-1
+Added Pin To Net: NetName=PWM_BL2 Pin=R110-1
+Added Pin To Net: NetName=PWM_CH2 Pin=R111-1
+Added Pin To Net: NetName=PWM_CL2 Pin=R112-1
+Added Pin To Net: NetName=PWM_CL1 Pin=U17-16
+Added Pin To Net: NetName=PWM_CH1 Pin=U17-17
+Added Pin To Net: NetName=PWM_BL1 Pin=U17-18
+Added Pin To Net: NetName=PWM_BH1 Pin=U17-19
+Added Pin To Net: NetName=PWM_AL1 Pin=U17-20
+Added Pin To Net: NetName=PWM_AH1 Pin=U17-21
+Added Pin To Net: NetName=PWM_CL2 Pin=U19-16
+Added Pin To Net: NetName=PWM_CH2 Pin=U19-17
+Added Pin To Net: NetName=PWM_BL2 Pin=U19-18
+Added Pin To Net: NetName=PWM_BH2 Pin=U19-19
+Added Pin To Net: NetName=PWM_AL2 Pin=U19-20
+Added Pin To Net: NetName=PWM_AH2 Pin=U19-21
+Change Room Name: Old Name=RoomDefinition New Name=U_3Phase Inverter2
+Change Room Name: Old Name=RoomDefinition_3 New Name=U_1232
+Added Room: Name=1
+Added Room: Name=3
+Added Room: Name=Fdbk_11
+Added Room: Name=Fdbk_12
+Added Room: Name=Fdbk_13
+Added Room: Name=Fdbk_21
+Added Room: Name=Fdbk_22
+Added Room: Name=Fdbk_23
+Added Room: Name=Intermediate_LCL_Top_20230320
+Added Room: Name=LCL_11
+Added Room: Name=LCL_12
+Added Room: Name=LCL_13
+Added Room: Name=LCL_21
+Added Room: Name=LCL_22
+Added Room: Name=LCL_23
+Added Room: Name=U_3Phase Inverter1
+Added Room: Name=U_1231
+Added Room: Name=U_Phase Current Voltage Sense1
+Added Room: Name=U_Phase Current Voltage Sense2

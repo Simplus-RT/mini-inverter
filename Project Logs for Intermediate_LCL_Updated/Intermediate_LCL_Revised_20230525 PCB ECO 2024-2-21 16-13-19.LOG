@@ -1,0 +1,166 @@
+Removed Member From Class: ClassName=3 Member=R60_1
+Removed Member From Class: ClassName=3 Member=R62_1
+Removed Member From Class: ClassName=3 Member=R64_1
+Removed Member From Class: ClassName=3 Member=R65_1
+Removed Member From Class: ClassName=3 Member=R66_1
+Removed Member From Class: ClassName=3 Member=R68_1
+Added Component: Designator=U9(DDA8_3P1X2P41)
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2024 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM5017MRX/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U9-1
+Added Pin To Net: NetName=NetC46_1 Pin=U9-2
+Added Pin To Net: NetName=NetR36_2 Pin=U9-3
+Added Pin To Net: NetName=NetR34_2 Pin=U9-4
+Added Pin To Net: NetName=NetC42_1 Pin=U9-5
+Added Pin To Net: NetName=NetC36_1 Pin=U9-7
+Added Pin To Net: NetName=NetC36_2 Pin=U9-8
+Add Pin To Net: Unknown Pin: Pin U9-9
+Add Pin To Net: Unknown Pin: Pin U9-
+Added Member To Class: ClassName=1 Member=Component C33 0.1uF
+Added Member To Class: ClassName=1 Member=Component C35 10nF
+Added Member To Class: ClassName=1 Member=Component C37 3300pF
+Added Member To Class: ClassName=1 Member=Component C38 0.1uF
+Added Member To Class: ClassName=1 Member=Component C39 0.1uF
+Added Member To Class: ClassName=1 Member=Component C41 0.1uF
+Added Member To Class: ClassName=1 Member=Component C43 0.033uF
+Added Member To Class: ClassName=1 Member=Component C44 3.3uF
+Added Member To Class: ClassName=1 Member=Component C45 100nF
+Added Member To Class: ClassName=1 Member=Component C46 100nF
+Added Member To Class: ClassName=1 Member=Component C47 3.3uF
+Added Member To Class: ClassName=1 Member=Component C48 1uF
+Added Member To Class: ClassName=3 Member=Component C70 0.1uF
+Added Member To Class: ClassName=3 Member=Component C71 0.1uF
+Added Member To Class: ClassName=3 Member=Component C72 2200pF
+Added Member To Class: ClassName=3 Member=Component C73 2200pF
+Added Member To Class: ClassName=3 Member=Component C74 2200pF
+Added Member To Class: ClassName=3 Member=Component C75 2200pF
+Added Member To Class: ClassName=3 Member=Component C76 2200pF
+Added Member To Class: ClassName=3 Member=Component C77 2200pF
+Added Member To Class: ClassName=3 Member=Component C78 2200pF
+Added Member To Class: ClassName=3 Member=Component C79 2200pF
+Added Member To Class: ClassName=3 Member=Component C80 0.1uF
+Added Member To Class: ClassName=3 Member=Component C81 0.1uF
+Added Member To Class: ClassName=3 Member=Component C82 2200pF
+Added Member To Class: ClassName=3 Member=Component C83 0.1uF
+Added Member To Class: ClassName=3 Member=Component C84 2200pF
+Added Member To Class: ClassName=3 Member=Component C85 2200pF
+Added Member To Class: ClassName=3 Member=Component C86 2200pF
+Added Member To Class: ClassName=3 Member=Component C87 2200pF
+Added Member To Class: ClassName=3 Member=Component C88 2200pF
+Added Member To Class: ClassName=3 Member=Component C89 2200pF
+Added Member To Class: ClassName=3 Member=Component C90 2200pF
+Added Member To Class: ClassName=3 Member=Component C91 0.1uF
+Added Member To Class: ClassName=1 Member=Component R25 0
+Added Member To Class: ClassName=1 Member=Component R27 54.9k
+Added Member To Class: ClassName=1 Member=Component R28 274k
+Added Member To Class: ClassName=1 Member=Component R29 16.5k
+Added Member To Class: ClassName=1 Member=Component R30 0
+Added Member To Class: ClassName=1 Member=Component R32 100k
+Added Member To Class: ClassName=1 Member=Component R33 10.0k
+Added Member To Class: ClassName=1 Member=Component R34 113k
+Added Member To Class: ClassName=1 Member=Component R35 4.22k
+Added Member To Class: ClassName=1 Member=Component R36 51.0k
+Added Member To Class: ClassName=1 Member=Component R38 16.5k
+Added Member To Class: ClassName=1 Member=Component R40 0
+Added Member To Class: ClassName=1 Member=Component R41 0
+Added Member To Class: ClassName=1 Member=Component R42 0
+Added Member To Class: ClassName=1 Member=Component R43 10.0k
+Added Member To Class: ClassName=1 Member=Component R44 0
+Added Member To Class: ClassName=1 Member=Component R45 0
+Added Member To Class: ClassName=1 Member=Component R46 0
+Added Member To Class: ClassName=1 Member=Component R47 0
+Added Member To Class: ClassName=1 Member=Component R48 10.0k
+Added Member To Class: ClassName=1 Member=Component R49 0
+Added Member To Class: ClassName=1 Member=Component R50 0
+Added Member To Class: ClassName=1 Member=Component R51 0
+Added Member To Class: ClassName=1 Member=Component R54 0
+Added Member To Class: ClassName=3 Member=Component R69 0
+Added Member To Class: ClassName=3 Member=Component R70 0
+Added Member To Class: ClassName=3 Member=Component R71 20
+Added Member To Class: ClassName=3 Member=Component R72 20
+Added Member To Class: ClassName=3 Member=Component R73 10.0k
+Added Member To Class: ClassName=3 Member=Component R74 20
+Added Member To Class: ClassName=3 Member=Component R75 20
+Added Member To Class: ClassName=3 Member=Component R76 20
+Added Member To Class: ClassName=3 Member=Component R77 20
+Added Member To Class: ClassName=3 Member=Component R78 20
+Added Member To Class: ClassName=3 Member=Component R79 20
+Added Member To Class: ClassName=3 Member=Component R80 20
+Added Member To Class: ClassName=3 Member=Component R81 10.0k
+Added Member To Class: ClassName=3 Member=Component R82 10.0k
+Added Member To Class: ClassName=3 Member=Component R83 10.0k
+Added Member To Class: ClassName=3 Member=Component R84 10.0k
+Added Member To Class: ClassName=3 Member=Component R85 10.0k
+Added Member To Class: ClassName=3 Member=Component R86 10.0k
+Added Member To Class: ClassName=3 Member=Component R87 10.0k
+Added Member To Class: ClassName=3 Member=Component R88 10.0k
+Added Member To Class: ClassName=3 Member=Component R89 10.0k
+Added Member To Class: ClassName=3 Member=Component R90 10.0k
+Added Member To Class: ClassName=3 Member=Component R91 10.0k
+Added Member To Class: ClassName=3 Member=Component R92 10.0k
+Added Member To Class: ClassName=3 Member=Component R93 10.0k
+Added Member To Class: ClassName=3 Member=Component R94 10.0k
+Added Member To Class: ClassName=3 Member=Component R95 10.0k
+Added Member To Class: ClassName=3 Member=Component R96 0
+Added Member To Class: ClassName=3 Member=Component R97 10.0k
+Added Member To Class: ClassName=3 Member=Component R98 20
+Added Member To Class: ClassName=3 Member=Component R99 20
+Added Member To Class: ClassName=3 Member=Component R100 20
+Added Member To Class: ClassName=3 Member=Component R101 20
+Added Member To Class: ClassName=3 Member=Component R102 20
+Added Member To Class: ClassName=3 Member=Component R103 0
+Added Member To Class: ClassName=3 Member=Component R104 0
+Added Member To Class: ClassName=3 Member=Component R105 20
+Added Member To Class: ClassName=3 Member=Component R106 20
+Added Member To Class: ClassName=3 Member=Component R108 10.0k
+Added Member To Class: ClassName=3 Member=Component R109 20
+Added Member To Class: ClassName=3 Member=Component R110 10.0k
+Added Member To Class: ClassName=3 Member=Component R111 10.0k
+Added Member To Class: ClassName=3 Member=Component R112 10.0k
+Added Member To Class: ClassName=3 Member=Component R114 10.0k
+Added Member To Class: ClassName=3 Member=Component R115 10.0k
+Added Member To Class: ClassName=3 Member=Component R116 10.0k
+Added Member To Class: ClassName=3 Member=Component R117 10.0k
+Added Member To Class: ClassName=3 Member=Component R118 10.0k
+Added Member To Class: ClassName=3 Member=Component R119 10.0k
+Added Member To Class: ClassName=3 Member=Component R120 10.0k
+Added Member To Class: ClassName=3 Member=Component R121 10.0k
+Added Member To Class: ClassName=3 Member=Component R122 10.0k
+Added Member To Class: ClassName=3 Member=Component R123 10.0k
+Added Member To Class: ClassName=3 Member=Component R124 10.0k
+Added Member To Class: ClassName=3 Member=Component R126 10.0k
+Added Member To Class: ClassName=1 Member=Component U7 REF3333AIDBZR
+Added Member To Class: ClassName=1 Member=Component U8 REF3333AIDBZR
+Added Member To Class: ClassName=1 Member=Component U9 LM5017MRX/NOPB
+Added Member To Class: ClassName=1 Member=Component U10 TMP302BQDRLRQ1
+Added Member To Class: ClassName=3 Member=Component U18 SN74AVC8T245RHLR
+Added Member To Class: ClassName=3 Member=Component U19 SN74LVC1G32DCKR
+Added Member To Class: ClassName=3 Member=Component U20 SN74AVC8T245RHLR
+Added Member To Class: ClassName=3 Member=Component U21 SN74LVC1G32DCKR
+Added Room: Name=1
+Added Room: Name=3
+Added Room: Name=4
+Added Room: Name=Fdbk_11
+Added Room: Name=Fdbk_12
+Added Room: Name=Fdbk_13
+Added Room: Name=Fdbk_21
+Added Room: Name=Fdbk_22
+Added Room: Name=Fdbk_23
+Added Room: Name=Intermediate_LCL_Top_20230320
+Added Room: Name=LCL_11
+Added Room: Name=LCL_12
+Added Room: Name=LCL_13
+Added Room: Name=LCL_21
+Added Room: Name=LCL_22
+Added Room: Name=LCL_23
+Added Room: Name=U_3Phase Inverter0
+Added Room: Name=U_3Phase Inverter1
+Added Room: Name=U_3Phase Inverter2
+Added Room: Name=U_3Phase Inverter3
+Added Room: Name=U_3Phase Inverter4
+Added Room: Name=U_3Phase Inverter5
+Added Room: Name=U_Phase Current Voltage Sense0
+Added Room: Name=U_Phase Current Voltage Sense1

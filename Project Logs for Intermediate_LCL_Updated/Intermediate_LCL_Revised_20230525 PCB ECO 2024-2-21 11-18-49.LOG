@@ -1,0 +1,182 @@
+Removed Pin From Net: NetName=NetC42_2 Pin=U7-6
+Change Component Footprint: Designator=R25 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R26 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R27 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R28 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R29 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R30 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R31 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R32 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R33 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R34 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R35 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R36 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R37 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R38 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R39 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R40 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R41 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R42 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R43 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R44 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R45 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R46 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R47 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R48 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R49 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R50 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R51 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R52 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R53 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R54 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R55 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R56 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R57 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R58 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R59 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R60 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R61 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R62 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R63 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R64 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R65 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R66 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R67 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R68 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R69 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R70 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R71 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R72 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R73 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R74 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R75 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R76 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R77 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R78 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R79 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R80 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R81 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R82 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R83 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R84 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R85 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R86 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R87 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R88 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R89 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R90 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R91 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R92 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R93 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R94 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R95 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R96 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R97 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R98 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R99 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R100 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R101 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R102 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R103 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R104 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R105 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R106 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R107 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R108 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R109 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R110 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R111 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R112 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R113 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R114 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R115 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R116 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R117 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R118 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R119 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R120 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R121 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R122 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R123 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R124 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R125 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R126 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R127 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R128 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R129 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R130 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R131 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R132 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R133 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R134 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R135 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R136 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R137 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R138 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R139 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R140 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R141 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R142 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R143 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R144 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R145 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R146 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R147 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R148 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R149 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R150 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R151 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R152 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R153 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R154 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R155 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R156 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R157 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R158 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R159 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R160 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R161 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R162 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R163 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R164 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R165 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R166 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R167 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R168 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R169 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R170 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R171 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R172 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R173 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R174 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R175 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R176 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R177 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R178 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R179 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R180 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R181 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R182 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R183 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R184 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R185 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R186 Old Footprint=0603r New Footprint=RESC1608X05N
+Change Component Footprint: Designator=R187 Old Footprint=0603r New Footprint=RESC1608X05N
+Added Pin To Net: NetName=NetC42_2 Pin=U7-6
+Added Room: Name=1
+Added Room: Name=2
+Added Room: Name=3
+Added Room: Name=4
+Added Room: Name=Fdbk_11
+Added Room: Name=Fdbk_12
+Added Room: Name=Fdbk_13
+Added Room: Name=Fdbk_21
+Added Room: Name=Fdbk_22
+Added Room: Name=Fdbk_23
+Added Room: Name=Intermediate_LCL_Top_20230320
+Added Room: Name=LCL_11
+Added Room: Name=LCL_12
+Added Room: Name=LCL_13
+Added Room: Name=LCL_21
+Added Room: Name=LCL_22
+Added Room: Name=LCL_23
