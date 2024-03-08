@@ -169,6 +169,23 @@ GenerateClassCluster=0
 DocumentUniqueId=LQCVANLJ
 
 [Document8]
+DocumentPath=..\..\..\..\Downloads\CONN-TH_TM54111092-12501.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KFEKDRIC
+
+[Document9]
 DocumentPath=C:\Users\YUjiangtao\AppData\Local\Temp\BNZ.65e68682a418c\AMC3330DWER.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BUIAQKHF
 
-[Document9]
+[Document10]
 DocumentPath=Soardra.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SPRKVGJW
 
-[Document10]
+[Document11]
 DocumentPath=AMC3302DWE.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BLAIMRYO
 
-[Document11]
+[Document12]
 DocumentPath=1PS79SB70,1151_1PS79SB70,115.schdoc.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PZUFVCBN
 
-[Document12]
+[Document13]
 DocumentPath=Power Devices.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VGFOEIUO
 
-[Document13]
+[Document14]
 DocumentPath=connector.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +287,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YMVSVFDB
 
-[Document14]
+[Document15]
+DocumentPath=..\..\..\..\Downloads\TM54111092-12501_TM54111092-1250.schdoc.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GQMIIYPR
+
+[Document16]
 DocumentPath=..\..\封装库\常用封装大全\通用原理图库\0.1 - 电阻-电容-电感.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BMECNHLB
 
-[Document15]
+[Document17]
 DocumentPath=..\..\..\yujiangtao\aaa1\aaa2\Soardra.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SPRKVGJW
 
-[Document16]
+[Document18]
 DocumentPath=Power Devices.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CLHPGNGL
 
-[Document17]
+[Document19]
 DocumentPath=Simscale.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZFSFXXGG
 
-[Document18]
+[Document20]
 DocumentPath=..\..\..\..\Downloads\CONN-TH_16P-P4.20_5557-2X8AW.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FBBFUEPA
 
-[Document19]
+[Document21]
 DocumentPath=Soardra.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SXFIIPAG
 
-[Document20]
+[Document22]
 DocumentPath=aaa2.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KAKACAYR
 
-[Document21]
+[Document23]
 DocumentPath=LCL_1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IANSCAPJ
 
-[Document22]
+[Document24]
 DocumentPath=ExportJobs.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document25]
 DocumentPath=Fdbk_1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MDBYWIPH
 
-[Document24]
+[Document26]
 DocumentPath=Fdbk_2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ICWCHFSA
 
-[Document25]
+[Document27]
 DocumentPath=power.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RCLOZJUK
 
-[Document26]
+[Document28]
 DocumentPath=3Phase Inverter1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BSIBPUBC
 
-[Document27]
+[Document29]
 DocumentPath=Phase Current Voltage Sense.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +542,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XFHIYJHL
 
-[Document28]
+[Document30]
 DocumentPath=LaunchPad Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +559,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PBTYOVZW
 
-[Document29]
+[Document31]
 DocumentPath=Intermediate_LCL_Top_20230320.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +576,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=THNTHNFN
 
-[Document30]
+[Document32]
 DocumentPath=Intermediate_LCL_Revised_new.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
