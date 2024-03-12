@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=NetC42_2 Pin=U7-6
-Added Component: Designator=L7(NR2520)
-Add component (AddParameter): Name = "BOM名称"; Value = "NR磁胶电感"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "版权归属"; Value = "来自淘宝 ID：黄晶宝石"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "联系售后"; Value = "https://shop463601444.taobao.com"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=NetC33_2 Pin=L7-1
-Added Pin To Net: NetName=NetC32_1 Pin=L7-2
-Added Pin To Net: NetName=NetC42_2 Pin=U7-6
-Added Member To Class: ClassName=1 Member=Component L7 100uH
