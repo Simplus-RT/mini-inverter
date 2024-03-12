@@ -423,23 +423,6 @@ GenerateClassCluster=0
 DocumentUniqueId=KAKACAYR
 
 [Document23]
-DocumentPath=LCL_1.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=IANSCAPJ
-
-[Document24]
 DocumentPath=ExportJobs.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -455,6 +438,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document24]
+DocumentPath=bridge.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=2
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IANSCAPJ
 
 [Document25]
 DocumentPath=power.SchDoc
@@ -474,7 +474,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RCLOZJUK
 
 [Document26]
-DocumentPath=Phase Current Voltage Sense.SchDoc
+DocumentPath=protection.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -491,7 +491,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XFHIYJHL
 
 [Document27]
-DocumentPath=LaunchPad Connectors.SchDoc
+DocumentPath=pwm-enable.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -508,7 +508,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PBTYOVZW
 
 [Document28]
-DocumentPath=Intermediate_LCL_Top_20230320.SchDoc
+DocumentPath=mini-inverter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -525,7 +525,7 @@ GenerateClassCluster=0
 DocumentUniqueId=THNTHNFN
 
 [Document29]
-DocumentPath=Intermediate_LCL_Revised_new.PcbDoc
+DocumentPath=mini-inverter.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
