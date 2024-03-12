@@ -1,0 +1,58 @@
+# Ignore list for Altium Designer
+
+# Project outputs and temporary files
+*.PrjPCBStructure
+*.PrjPcbStructure
+*.PcbDocPreview
+*.PrjEmbStructure
+*.SchDocPreview
+*.PcbDocPreview
+__Previews/
+History/
+
+# Compiled Output Files
+*.elf
+*.hex
+*.bin
+*.lst
+*.map
+*.mem
+
+# Local cache files
+__Previews/
+History/
+
+# Altium temporary files
+*.~*
+
+# Altium backup files
+*.*_Backup*
+*.SchDoc.Backup*
+*.PcbDoc.Backup*
+
+# Other files to ignore
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Generated netlist files
+*.Net
+
+# Generated report files
+*.BomDoc
+*.PrjPcbVariants
+*.PrjPcbStructure
+*.REP
+*.CSV
+*.TXT
+*.xlsx
+
+# Lock files
+*.PrjPcbStructure.LockManager
+
+# Log files
+*.LOG
+
+# Altium Designer specific files that should be ignored
+Project Logs for *.PrjPcb
+*.PrjPcbStructure
